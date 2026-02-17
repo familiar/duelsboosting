@@ -45,8 +45,5 @@ The mod automatically activates when players join a game. No commands or configu
 - **Rendering**: Custom OpenGL rendering with colored bounding boxes
 - **Colors**: Automatically assigns different colors to different players
 
-## Credits
-
-Created by spaghetcodes
 
 
